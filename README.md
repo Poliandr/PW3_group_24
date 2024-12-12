@@ -36,7 +36,6 @@ F1-score (weighted)
 - Файл с тренировычными данными:  **train.csv**
 - Файл с валидационными данными:  **valid.csv**
 - Файл с тестовыми данными:  **test_without_answers.csv**
-- Файл с классифицированными текстами:  **submission.csv**
 - Файл Jupyter Notebook проекта:  **v2_PP_3.ipynb**
 - Файл зависимостей: **requirements.txt**
 - Ссылка на Google colab notebook: https://colab.research.google.com/drive/1jV0fOqcepZGuL3YxTEbGDdkq52mhD3J7?usp=sharing
