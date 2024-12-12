@@ -38,6 +38,9 @@ F1-score (weighted)
 - Файл с тестовыми данными:  **test_without_answers.csv**
 - Файл Jupyter Notebook проекта:  **v2_PP_3.ipynb**
 - Файл зависимостей: **requirements.txt**
+- Предложенное улучшение модели: **improved_model.py**
+- Оценка архитектуры: **Оценка архитектуры**
+- Code Review: **Code Review**
 - Ссылка на Google colab notebook: https://colab.research.google.com/drive/1jV0fOqcepZGuL3YxTEbGDdkq52mhD3J7?usp=sharing
   
 ## Команда проекта:
