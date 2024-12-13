@@ -33,14 +33,14 @@ F1-score (weighted)
 
 ## Структура проекта:
 
-- Файл с тренировычными данными:  **train.csv**
-- Файл с валидационными данными:  **valid.csv**
-- Файл с тестовыми данными:  **test_without_answers.csv**
+- Файл с тренировычными данными:  **data/train.csv**
+- Файл с валидационными данными:  **data/valid.csv**
+- Файл с тестовыми данными:  **data/test_without_answers.csv**
 - Файл Jupyter Notebook проекта:  **v2_PP_3.ipynb**
 - Файл зависимостей: **requirements.txt**
 - Предложенное улучшение модели: **improved_model.py**
-- Оценка архитектуры: **Оценка архитектуры**
-- Code Review: **Code Review**
+- Оценка архитектуры: [docs/architecture-assessment.md](docs/architecture-assessment.md)
+- Code Review: [docs/code-review.md](docs/code-review.md)
 - Ссылка на Google colab notebook: https://colab.research.google.com/drive/1jV0fOqcepZGuL3YxTEbGDdkq52mhD3J7?usp=sharing
   
 ## Команда проекта:
